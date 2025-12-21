@@ -46,6 +46,27 @@ The goal is to strengthen problem-solving skills and prepare for **product-based
 
 ## 📂 Project Structure (High Level)
 
+Practice_Sample
+│
+├── handsome_coding_dsa_sheet
+│ ├── arrays
+│ ├── linkedlist
+│ ├── stack
+│ ├── recursion
+│ ├── sorting
+│ ├── tree
+│ ├── dp
+│ ├── company
+│ └── leetcode
+│
+├── core_java
+│ ├── oops
+│ ├── multithreading
+│ └── java8
+│
+├── README.md
+└── .gitignore
+
 
 ---
 
